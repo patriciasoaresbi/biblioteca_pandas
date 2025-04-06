@@ -1,6 +1,6 @@
 # biblioteca_pandas
 
-# o dataset de varejo que temos em mãos é compost por informações de vendas de uma loja virtual que atua em todo o território nacional, vendendo produtos de diferentes departamentos. Além disso, a loja atua em diferentes canais de venda, como marketplace, loja propria, entre outros.
+o dataset de varejo que temos em mãos é compost por informações de vendas de uma loja virtual que atua em todo o território nacional, vendendo produtos de diferentes departamentos. Além disso, a loja atua em diferentes canais de venda, como marketplace, loja propria, entre outros.
 
 Premissas de negócios:
 Ao analisar os dados, é importante ter em mente que existem algumas premissas de negócio que devem ser consideradas. A 1ª delas é que, devido a um erro no Sistema, algumas compras não possuem informações de UF (Unidade Federativa). Para solucionar esse problema, foi decidido que essas compras serão consideradas como pertencentes ao estado de Mato Grosso (MS). A 2ª premissa é que o preço final de um produto não pode ser maior do que o preço com frete.
